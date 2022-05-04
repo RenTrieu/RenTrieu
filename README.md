@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Darren
+
+## I'm a Systems Engineer
+- 🔭 I’m currently working on contributing more to open source
+- 🌱 I’m currently learning statistical learning
 
 <!--
 **RenTrieu/RenTrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
