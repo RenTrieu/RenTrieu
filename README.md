@@ -1,8 +1,9 @@
 ### Hi there, I'm Ren
 
 ## I'm a Systems Engineer
-- 🔭 I’m currently working on contributing more to open source
-- 🌱 I’m currently learning
+- 👯 I’m open to collaborating on nearly any project, just reach out!
+- 🌱 I’m currently learning Rust and Nix
+- 📫 How to reach me: Email me at `ren.trieu.github@gmail.com`!
 
 <!--
 **RenTrieu/RenTrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
