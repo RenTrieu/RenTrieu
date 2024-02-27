@@ -2,6 +2,7 @@
 
 ## I'm a Systems Engineer
 - 👯 I’m open to collaborating on nearly any project, just reach out!
+- 🔭 I like to make Minecraft plugins
 - 🌱 I’m currently learning Rust and Nix
 - 📫 How to reach me: Email me at `ren.trieu.github@gmail.com`!
 
