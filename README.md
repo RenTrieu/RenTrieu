@@ -1,5 +1,5 @@
 ## Hi there, I'm Ren
-- 📫 How to reach me: Email me at `ren.trieu.github@gmail.com`!
+- 📫 How to reach me: Email me at `ren.trieu.n@gmail.com`!
 
 <!--
 **RenTrieu/RenTrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
